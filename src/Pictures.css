@@ -1,0 +1,14 @@
+.up .picture{
+    display: grid;
+    width: 800px;
+}
+.up .picture img{
+    grid-row: 1/3;
+    float: left;
+    width: 180px;
+    height: 100px;
+}
+.res{
+    padding-right: 50px;
+    padding-bottom: 100px;
+}
